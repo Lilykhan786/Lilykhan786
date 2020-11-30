@@ -1,5 +1,5 @@
 ## Lily Khan.✨ <img align="right" style="transform: rotate(180deg);" src="https://media.discordapp.net/attachments/662625274474659850/783020862404165652/d8p27j1-2b080c34-b5bb-4b30-99c5-cf095817a0a4.png">
-Hello! Welcome to my GitHub profile!＼(＾▽＾)／ <br>
+Hello! Welcome to my GitHub profile! <br>
 I'm Lily, a 16 y/o Front-end developer from India.<br> 
 I mostly code in CSS. BTW my 1st lang was Java and now I'm learning Python (for school) and JavaScript (for front-end stuff) 
 
