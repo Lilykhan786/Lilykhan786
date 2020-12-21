@@ -1,6 +1,6 @@
 ## Lily Khan.✨ 
 Hello! Welcome to my GitHub profile! <br>
-I'm Lily, a 16 y/o Front-end developer from India.<br> 
+I'm Lily, a teen Front-end developer from India.<br> 
 I mostly code in CSS. BTW my 1st lang was Java and now I'm learning Python (for school) and JavaScript (for front-end stuff) 
 
 #### You can find me on :  
